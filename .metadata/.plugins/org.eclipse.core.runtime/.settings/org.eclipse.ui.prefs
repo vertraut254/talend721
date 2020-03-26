@@ -1,0 +1,10 @@
+CLOSE_EDITORS_ON_EXIT=true
+LOGINCOUNT=1
+PREFERENCE_TALEND_LOGON_STARTUP_TIMES=1
+eclipse.preferences.version=1
+lastUSedProject=SANDBOX
+last_started_project_type=DQ
+logonDialog.alwaysAskMeAtStartUp=true
+presentationFactoryId=org.talend.rcp.presentationfactory
+showIntro=false
+workspaceTasksDone=org.talend.core.InitConnectionsMigrationTask|org.talend.core.EmptyConnectionsMigrationTask|org.talend.migrationTool.InitWorkspaceMigrationTask|org.talend.designer.core.ui.preferences.migration.AddQuotesForStatLogsPreference|org.talend.repository.model.migration.ChangeProjectTechinicalName|org.talend.amc.plugin.migration.UnifyPasswordEncryption4AmcConnectionMigrationTask|org.talend.repository.svnprovider.migration.ChangeProjectTechinicalName4Svn|org.talend.designer.runprocess.migrationtask.changeClasspath|org.talend.designer.runprocess.maven.ChangeCodeProjectClasspathMigrationTask2
